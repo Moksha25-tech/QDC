@@ -1,4 +1,4 @@
-# Quadrature Down Converter (QDC) – LTSpice Simulation
+# Quadrature Down Converter (QDC) 
 
 As part of a broader exploration into RF and analog front-end circuit design, we individually designed and simulated a complete **Quadrature Down Converter (QDC)** using **LTSpice**. The QDC is a critical component in communication receivers, responsible for translating a high-frequency RF signal down to baseband while preserving both amplitude and phase information through the generation of in-phase (I) and quadrature-phase (Q) signals.
 
