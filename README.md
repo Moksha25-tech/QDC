@@ -37,3 +37,6 @@ This hands-on project deepened our understanding of:
 - Moksha Choksi  
 - Dhanika Kothari  
 - Kavya Veer
+
+## Error 
+In the final report the calculation part of Quadrature oscillator should be done without consideration of inductor
