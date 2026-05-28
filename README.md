@@ -6,9 +6,9 @@ As part of a broader exploration into RF and analog front-end circuit design, we
 
 This project involved the discrete design and integration of the following major analog blocks:
 
-- 🎯 **Quadrature Oscillator**: Generated two sinusoidal outputs with a 90° phase difference to drive the I and Q mixer paths.
-- ⚙️ **Double-Balanced Mixers**: Multiplied the RF input with LO signals to produce both I and Q intermediate frequencies (IF).
-- 🎚️ **Low-Pass Filters (LPF)**: Removed high-frequency components from the mixer output to isolate the desired baseband signal.
+- **Quadrature Oscillator**: Generated two sinusoidal outputs with a 90° phase difference to drive the I and Q mixer paths.
+- **Double-Balanced Mixers**: Multiplied the RF input with LO signals to produce both I and Q intermediate frequencies (IF).
+- **Low-Pass Filters (LPF)**: Removed high-frequency components from the mixer output to isolate the desired baseband signal.
 
 ## Key Focus Areas
 
